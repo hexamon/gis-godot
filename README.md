@@ -1,2 +1,2 @@
 # gis-godot
-Code snippets for experiments with geodata in QGIS
+Code snippets for experiments with geodata in Godot.
