@@ -1,5 +1,8 @@
 extends Node
 
+#License: MIT
+#Author: Anton Westholm
+
 #This script constructs meshes from MultiPolygonZ geometries stored as JSON.
 #It probably wont work on arbitrary data without some tinkering.
 
